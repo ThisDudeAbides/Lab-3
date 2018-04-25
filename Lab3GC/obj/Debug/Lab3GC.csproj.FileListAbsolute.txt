@@ -1,0 +1,7 @@
+c:\users\mssar\source\repos\Lab3GC\Lab3GC\bin\Debug\Lab3GC.exe.config
+c:\users\mssar\source\repos\Lab3GC\Lab3GC\bin\Debug\Lab3GC.exe
+c:\users\mssar\source\repos\Lab3GC\Lab3GC\bin\Debug\Lab3GC.pdb
+c:\users\mssar\source\repos\Lab3GC\Lab3GC\obj\Debug\Lab3GC.csproj.CoreCompileInputs.cache
+c:\users\mssar\source\repos\Lab3GC\Lab3GC\obj\Debug\Lab3GC.exe
+c:\users\mssar\source\repos\Lab3GC\Lab3GC\obj\Debug\Lab3GC.pdb
+c:\users\mssar\source\repos\Lab3GC\Lab3GC\obj\Debug\Lab3GC.csprojResolveAssemblyReference.cache
